@@ -15,3 +15,4 @@
 <br/>
 
 ![Adafruit-dash-sample](assets/Adafruit-dash-sample.png)
+<hr/>
