@@ -16,3 +16,13 @@
 
 ![Adafruit-dash-sample](assets/Adafruit-dash-sample.png)
 <hr/>
+<br/><br/>
+
+
+<h4> LINK TO MAIN PROJECT </h4>
+- <b> Please do like my project and drop your comments in the actual project link by clicking this link below  
+              https://maker.wiznet.io/2022/01/12/smart-home-control-system/</b>
+  
+  <br/><br/><br/><br/>
+  
+  Thanks and have a great day!
