@@ -12,4 +12,5 @@
 - Edit the secrets.py file with you credentials from Adafruit IO.
 
 - Create the a dashboard in Adafruit IO as shown in the Image below:-
+<br/>
 ![Adafruit-dash-sample](assets/Adafruit-dash-sample.png)
