@@ -7,7 +7,7 @@
 [Wiznet Contest 2022 | How to create Smart Home Automation using W5100S](https://www.youtube.com/watch?v=o0HWjFaj6sY)
 <br/>
 
-<h4> LINK TO MAIN PROJECT </h4>
+<b> LINK TO MAIN PROJECT:- </b>
 - <b> Please do like my project and drop your comments in the actual project link by clicking this link below  
               https://maker.wiznet.io/2022/01/12/smart-home-control-system/</b>
   
