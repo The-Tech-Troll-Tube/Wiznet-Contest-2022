@@ -3,7 +3,7 @@
 
 - TO RESET THE BOARD NUKE IT with the flash_nuke.uf2 file, to flash drop the file on to the board after pressing the button and connecting to usb.
 
-- Copy content from CIRCUIT-PY Folder to you circuit python flashed Wiznet W5500-EVB-Pico.
+- Copy content from CIRCUIT-PY Folder to you circuit python flashed Wiznet W5100S-EVB-Pico.
 
 - Edit the secrets.py file with you credentials from Adafruit IO.
 
