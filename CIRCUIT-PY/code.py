@@ -364,13 +364,6 @@ io.add_feed_callback("KitchenLight", on_KitchenLight_msg)
 io.add_feed_callback("GateButton", on_GateButton_msg)
 
 
-## Group name
-group_name = "weatherstation" # Comenting Throws error need to check
-
-## Feeds within the group
-temp_feed = "weatherstation.temperature" # omenting Throws error need to check
-humid_feed = "weatherstation.humidity"  # Comenting Throws error need to check
-
 # Connect to Adafruit IO
 print("Connecting to Adafruit IO...")
 io.connect()
